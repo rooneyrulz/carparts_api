@@ -1,0 +1,8 @@
+.git
+app.env
+db.env
+superuser.env
+venv
+Dockerfile
+docker-compose.yml
+db.sqlite3
